@@ -1,5 +1,4 @@
 # trump_speeches
-All of Trump's Speeches from June 2015 to November 9, 2016
+All of Trump and Hillary's Speeches from beginning of election to end.
 
-Missing line breaks and other formatting, but should work well for most text analysis purposes. Enjoy. 
-
+Modified scraping code from PedramNavid.
